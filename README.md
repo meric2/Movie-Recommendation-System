@@ -42,7 +42,7 @@ The key aspects of this project include:
   pip install -r requirements.txt
   ```
 
-- Install [the dataset.](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+- Download [the dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
 - Open `recommend.ipynb` notebook and run all cells
 
 
